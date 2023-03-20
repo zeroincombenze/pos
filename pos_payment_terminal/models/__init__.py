@@ -1,1 +1,3 @@
-from . import pos_payment_method, pos_session
+from . import pos_config
+from . import account_journal
+from . import pos_order
